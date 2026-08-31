@@ -43,7 +43,7 @@ OWNER_IDS = [8807492422, 8866279807]
 # ============================
 # CHANNEL LINK
 # ============================
-CHANNEL_LINK = "https://t.me/+WkuN9W2TyoU3OTFl"
+CHANNEL_LINK = "https://t.me/+f8b3-dF5Y2czNGE1"
 
 # ============================
 # BOT NAME
